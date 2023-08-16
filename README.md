@@ -1,4 +1,5 @@
 #Factory Monitor System
+
 ##Overview
 The Factory Monitor System is a comprehensive solution designed to monitor and manage various environmental parameters in a factory setting. The system is built around the ATmega32 microcontroller and utilizes a variety of sensors and components to ensure the safety and efficiency of your factory operations.
 
