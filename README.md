@@ -1,9 +1,9 @@
-#Factory Monitor System\
+# Factory Monitor System
 
-##Overview
+## Overview
 The Factory Monitor System is a comprehensive solution designed to monitor and manage various environmental parameters in a factory setting. The system is built around the ATmega32 microcontroller and utilizes a variety of sensors and components to ensure the safety and efficiency of your factory operations.
 
-##Components
+## Components
 ATmega32 Microcontroller: The brain of the system, responsible for coordinating all other components.
 4x20 LCD: Used to display real-time data from the sensors.
 LM35 Temperature Sensor: Monitors the temperature within the factory.
@@ -20,5 +20,5 @@ If someone approaches the device while the alarm is active (as detected by the u
 
 Once the hazard has been addressed and conditions return to normal, the system will resume its normal operation. If conditions do not improve, the alarm will start again, ensuring continuous monitoring and safety.
 
-##Note
+## Note
 Please ensure that all components are properly connected and powered for optimal operation. Always follow safety guidelines when operating in a factory environment.
